@@ -1,0 +1,77 @@
+body{
+    text-align: center;
+    background: url(sfondo.jpg) repeat fixed;
+}
+span{
+    width: 0.7em;
+    font-size: 300%;
+    font-family: algerian, courier;
+    line-height: 90%;
+}
+
+.box1{
+    margin-left: 10%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    border: 0px solid #036;
+    width: 80%;
+}
+.box2{
+    margin-left: 15%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    border: 2px dotted;
+    width: 70%;
+}
+.box3{
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border: 0px solid #36c;
+}
+.testo1{
+    text-align: justify;
+    color: blue;
+    text-indent: 5%;
+    letter-spacing: 2px;
+    font-style: italic;
+    font-size: 15px;
+    font-family: verdana, sans-serif;
+    line-height: 30px;
+
+}
+.testo2{
+    text-align: justify;
+    color: #ff0000;
+    text-indent: 5%;
+    letter-spacing: 5px;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: arial, sans-serif;
+    line-height: 40px;
+
+}
+
+.foto{
+    width: 200px;
+    margin: auto;
+    border: 2px solid red;
+    border-radius: 50px;
+
+}
+.foto img{
+    width: 100%;
+    display: block;
+}
+.testata{
+    width: 50%;
+    margin-left: 0;
+    margin-right: auto;
+    font-size: 120%;
+    margin-right: auto;
+    font-family: Courier, verdana;
+    font-weight: bold;
+    color: #000066;
+    margin-top: 10px;
+}
